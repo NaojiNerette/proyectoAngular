@@ -5,5 +5,6 @@ export interface Product{
     description: string;
     categoryId: number;
     store: number;
+    qty: number;
 }
 
